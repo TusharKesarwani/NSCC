@@ -83,6 +83,7 @@ body{
 
 /* End of Header */
 
+/* Start of Our Vision */
 
 #our-vision {
 	min-height: 80vh;
@@ -125,46 +126,15 @@ body{
 	align-items: center;
 }
 
-#sponsors {
-	padding: 50px 0;
-	background-color: #261f1f;
-}
-
-.spons {
-	width: 50%;
-	height: auto;
-	border-radius: 50%;
-}
-
-#judging-criteria {
-	background-color: #1d2125;
-}
-
-.rules {
-	background-color: #33373a;
-	color: #fff;
-	border-radius: 20px;
-	padding: 50px;
-	display: grid;
-	justify-content: center;
-	align-items: center;
-}
-
 @media screen and (max-width: 768px) {
 	.contents {
 		border-radius: 0;
 	}
-	.spons {
-		width: 40%;
-		/* margin-top: 30px; */
-	}
-	.rules {
-		margin: 0 auto;
-		border-radius: 0;
-	}
 }
 
+/* End of Our Vision */
 
+/* Start of Our Team Section */
 
 #our-team {
 	background-color: #1a1c1f;
@@ -253,10 +223,9 @@ body{
 	margin: 0 2px;
 }
 
+/* End of Our Team Section */
 
-
-
-
+/* Start of Footer */
 
 .logo-footer {
 	width: 500px;
@@ -289,3 +258,5 @@ body{
 	background-color: #0f0f0f;
 	padding: 20px 0px 20px 0px;
 }
+
+/* End of Footer */
