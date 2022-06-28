@@ -101,8 +101,9 @@ body{
 	font-family: "Oleo Script", sans-serif;
 	color: #fff;
 	display: inline;
-	border-top: 5px solid;
-	border-bottom: 5px solid;
+	font-size:300%;
+	/* border-top: 5px solid; */
+	/* border-bottom: 5px solid; */
 }
 
 .contents {
