@@ -1,8 +1,6 @@
-# NSCC 
-# Newton School Coding Club MMMUT Gorakhpur
+# Welcome to Newton School Coding Club MMMUT Gorakhpur Official Repository
 
 The Newton School Coding Club MMMUT has been functioning since 2022 with the collective efforts of a group of B.Tech. students who had a strong urge to complement the theoretical and practical knowledge imparted in the classroom and laboratory, with emphasis on development of overall personality of budding engineering graduates.
-# Welcome to Newton School Coding Club MMMUT Official Repository
 
 ![NSCCMMMUT](https://socialify.git.ci/TusharKesarwani/NSCC/image?description=1&descriptionEditable=A%20place%20for%20programmers.&font=Rokkitt&forks=1&issues=1&language=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
 
